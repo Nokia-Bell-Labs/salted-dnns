@@ -10,13 +10,9 @@ Split inference partitions a deep neural network (DNN) to run the early part at 
 
 ![](./figs/saler.png)
 
-# How to Run Experiments
+# Code
 
-Set up the arguments of your desired experiment in `exp_setup.py` and then run
-```
-> python main.py 
-```
-
+**We are in the process of finalizing the open-source requirements and intend to release the code by the end of December 2023.**
 
 # Citation
 Please use:
