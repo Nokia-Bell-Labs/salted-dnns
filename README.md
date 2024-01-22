@@ -1,4 +1,4 @@
-# Salted DNNs
+# 🧂 Salted DNNs
 ## [HotMobile'24] Salted Inference: Enhancing Privacy while Maintaining Efficiency of Split Inference in Mobile Computing
 **• Paper**: https://arxiv.org/abs/2310.13384
 
