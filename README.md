@@ -1,5 +1,5 @@
 # Salted DNNs
-## Salted Inference: Enhancing Privacy while Maintaining Efficiency of Split Inference in Mobile Computing
+## [HotMobile'24] Salted Inference: Enhancing Privacy while Maintaining Efficiency of Split Inference in Mobile Computing
 **• Paper**: https://arxiv.org/abs/2310.13384
 
 **• Abstract**:
@@ -21,11 +21,10 @@ Set up the arguments of your desired experiment in `exp_setup.py` and then run
 # Citation
 Please use:
 ```bibtex
-@article{malekzadeh2023salted,
+@inproceedings{malekzadeh2024salted,
   title={Salted Inference: Enhancing Privacy while Maintaining Efficiency of Split Inference in Mobile Computing},
   author = {Mohammad Malekzadeh and Fahim Kawsar},
-  journal={arXiv preprint arXiv:2310.13384},
-  url = {https://arxiv.org/abs/2310.13384},
-  year={2023}
+  booktitle={Proceedings of the 25th International Workshop on Mobile Computing Systems and Applications},
+  year={2024}
 }
 ```
